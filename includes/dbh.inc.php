@@ -1,8 +1,8 @@
 <?php 
 
-$servername = "ucka.veleri.hr";
-$username = "pcumurdzic";
-$pwd = "11";
-$dbname = "pcumurdzic";
+$servername = "xxx";
+$username = "xxx";
+$pwd = "xx";
+$dbname = "xxx";
 
 $conn = mysqli_connect($servername, $username, $pwd, $dbname);
